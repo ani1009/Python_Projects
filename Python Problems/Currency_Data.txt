@@ -1,0 +1,53 @@
+Argentine Peso	    160.708777	0.006222
+Australian Dollar	1.496880	0.668056
+Bahraini Dinar	    0.376000	2.659574
+Botswana Pula	    13.239122	0.075534
+Brazilian Real	    5.267183	0.189855
+British Pound	    0.849668	1.176930
+Bruneian Dollar	    1.375126	0.727206
+Bulgarian Lev	    1.901911	0.525787
+Canadian Dollar	    1.329467	0.752181
+Chilean Peso	    891.679975	0.001121
+Chinese Yuan Renminbi	7.066948     0.141504
+Colombian Peso	    4803.337082	0.000208
+Croatian Kuna	    7.338530	0.136267
+Czech Koruna	    23.613437	0.042349
+Danish Krone	    7.233033	0.138255
+Emirati Dirham	    3.672500	0.272294
+Euro	            0.972431	1.028350
+Hong Kong Dollar	7.836806	0.127603
+Hungarian Forint	395.199420	0.002530
+Icelandic Krona	    146.160097	0.006842
+Indian Rupee	    81.204881	0.012315
+Indonesian Rupiah	15573.183600    0.000064
+Iranian Rial	    42227.738884    0.000024
+Israeli Shekel	    3.432754	0.291311
+Japanese Yen	    140.385014	0.007123
+Kazakhstani Tenge	461.359786	0.002168
+Kuwaiti Dinar	    0.307836	3.248479
+Libyan Dinar	    4.866954	0.205467
+Malaysian Ringgit	4.596017	0.217580
+Mauritian Rupee	    43.852800	0.022804
+Mexican Peso	    19.541309	0.051174
+Nepalese Rupee	    129.988713	0.007693
+New Zealand Dollar	1.646844	0.607222
+Norwegian Krone	    10.013377	0.099866
+Omani Rial	        0.384998	2.597419
+Pakistani Rupee	    221.628812	0.004512
+Philippine Peso	    57.209108	0.017480
+Polish Zloty	    4.560984	0.219251
+Qatari Riyal	    3.640000	0.274725
+Romanian New Leu	4.766034	0.209818
+Russian Ruble	    60.617621	0.016497
+Saudi Arabian Riyal	3.750000	0.266667
+Singapore Dollar	1.375126	0.727206
+South African Rand	17.314465	0.057755
+South Korean Won	1329.181334	0.000752
+Sri Lankan Rupee	365.514712	0.002736
+Swedish Krona	    10.449881	0.095695
+Swiss Franc	        0.946133	1.056934
+Taiwan New Dollar	30.995427	0.032263
+Thai Baht	        35.883683	0.027868
+Trinidadian Dollar	6.750811	0.148130
+Turkish Lira	    18.605764	0.053747
+Venezuelan Bolivar	927505.051330	0.000001
